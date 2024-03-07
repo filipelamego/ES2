@@ -1,0 +1,17 @@
+Atividade 4
+
+Ler a descrição abaixo com cuidado e responder:
+
+1 - O que você entendeu da situação atual e problemas.
+R: Na situação atual, a secretária Patricia tem muito trabalho para controlar as salas de reunião, uma vez que o grande número de planilhas, causa ineficiência no gerenciamento das salas, pois caso haja uma grande demanda de reuniões o tempo perdido na organização e agendamento das salas pode ser grande. O principal problema está no controle manual, que pode causar conflito nos agendamentos, pois em caso de um erro, ela poderia agendar a sala para mais de uma pessoa, por exemplo.
+
+
+2 - Qual a sua proposta de solução?
+R: Uma das soluções possíveis é a utilzação de um software de agendamentos, o além de trazer mais agilidade no trabalho, também proporciona mais segurança, uma vez que evita-se o agendamento da mesma sala para mais de uma pessoa, além de concentrar todo o controle das salas em um único local. Um bom software para isso, contaria com um sistema de calendário, onde é possível realizar agendamentos por horários específicos, bem como enviar notificações para as possíveis reuniões.
+
+
+3 - Faça uma lista dos requisitos funcionais.
+- Botão para incluir ou excluir agendamentos;
+- Função para gerar relatórios das reservas de salas de reunião;
+- Conexão com algum sistema smtp para envio de mensagem eletrônica, como lembrete de alguma reunião específica;
+- Um calendário com grid, onde é possível visualizar as reuniões já agendadas, e quais salas estão livres
